@@ -1,4 +1,4 @@
-# XAMPP Virtual Hosts Setup Ubuntu
+# XAMPP Virtual Hosts Setup Linux Ubuntu
 
 ## 1. Allow the usage of custom virtual hosts
 ```
