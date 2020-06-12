@@ -37,7 +37,7 @@ add
 <VirtualHost 127.0.0.5:80>
   DocumentRoot "/path/to/the/project/folder"
   DirectoryIndex index.php
-
+  ServerName testing.test
   <Directory "/path/to/the/project/folder">
 	Options All
 	AllowOverride All
