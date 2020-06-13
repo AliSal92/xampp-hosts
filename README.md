@@ -48,5 +48,5 @@ add
 
 ## 4. Restart LAMP
 ```
-sudo /opt/lampp/lampp start
+sudo /opt/lampp/lampp restart
 ```
