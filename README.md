@@ -45,3 +45,8 @@ add
   </Directory>
 </VirtualHost>
 ```
+
+## 4. Restart LAMP
+```
+sudo /opt/lampp/lampp start
+```
